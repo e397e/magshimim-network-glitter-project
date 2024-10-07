@@ -1,2 +1,1 @@
-# magshimim-network-glitter-project
-my full magshimim glitter project (end of first year)
+grade recived on this project - 100
